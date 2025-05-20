@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+plotly
+dash
+dash-table
+pyyaml
+pytest
